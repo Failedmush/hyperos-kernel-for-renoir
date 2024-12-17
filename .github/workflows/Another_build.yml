@@ -1,4 +1,4 @@
-name: Build and Upload Artifacts
+name: Build kernel with SUSF and Upload Artifacts
 
 on:
   workflow_dispatch:
