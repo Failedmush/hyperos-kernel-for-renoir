@@ -1,4 +1,4 @@
-name: Update Kernelsu
+name: Build kernel with KernelSU NEXT
 
 on:
   workflow_dispatch:
